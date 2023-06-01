@@ -1,4 +1,4 @@
-`/*
+/*
  * Binary Search Tree #2
  *
  * Data Structures
